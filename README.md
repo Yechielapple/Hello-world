@@ -1,2 +1,2 @@
 # Hello-world
-check it out
+self taught python and sql developer.
